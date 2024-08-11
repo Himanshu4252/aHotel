@@ -1,6 +1,6 @@
 import Gym from "./srcImages/gym.jpg"
 import Beds from './srcImages/beds.jpg'
-import EventHall from "./srcImages/event.jpg"
+import EvenHall from "./srcImages/event.jpg"
 import Pool from "./srcImages/pool.jpg"
 import Standard from './srcImages/standard.jpg'
 import Premium from './srcImages/premium.jpg'
@@ -14,9 +14,9 @@ import Laundry  from './srcImages/laundry.png'
 import Parking from './srcImages/parking.png'
 import Breakfast from './srcImages/breakfast.png'
 import Thirdbday from './srcImages/ThirdBday.jpeg'
-import Thirdevent from './srcImages/ThirdEventHall.jpeg'
+import Thirdeven from './srcImages/ThirdEventHall.jpeg'
 import ThirdwedHall from "./srcImages/ThirdwedHall.jpeg"
 import fGym from "./srcImages/featureGym.jpeg"
 import fSpa from "./srcImages/FeatureSpa.jpeg"
 import fPool from "./srcImages/featurePool.jpeg"
-export {Gym,Thirdbday, ThirdwedHall, Thirdevent, fGym, fSpa, fPool, Beds, EventHall, Pool, Standard, Medium, Premium, Trophy, Stars, Wifi, Breakfast, Iron, Clock, Laundry, Parking}
+export {Gym,Thirdbday, ThirdwedHall, Thirdeven, fGym, fSpa, fPool, Beds, EvenHall, Pool, Standard, Medium, Premium, Trophy, Stars, Wifi, Breakfast, Iron, Clock, Laundry, Parking}

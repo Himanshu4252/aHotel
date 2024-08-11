@@ -4,7 +4,7 @@ import Nav from "./components/Nav";
 import Carousel from "./components/Carousel";
 import Description from "./components/Description";
 import Amenities from "./components/Amenities";
-import EventOp from "./components/EventOp";
+import EvenOp from "./components/EvenOp";
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
       <Carousel />
       <Description />
       <Amenities />
-      <EventOp />
+      <EvenOp />
     </main>
   );
 }
