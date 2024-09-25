@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import {Gym, Beds, EvenHall, Pool} from './Images'
+import {Gym, Beds, partyHall, Pool} from './Images'
 import style from "./Web.module.css"
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
       <Image src={Beds} className={`d-block w-100 ${style.imageResizer}`} alt="Beds" />
     </div>
     <div className="carousel-item">
-      <Image src={EvenHall} className={`d-block w-100 ${style.imageResizer}`} alt="Eventhall" />
+      <Image src={partyHall} className={`d-block w-100 ${style.imageResizer}`} alt="Eventhall" />
     </div>
     <div className="carousel-item">
       <Image src={Pool} className={`d-block w-100 ${style.imageResizer}`} alt="Pool" />
